@@ -16,3 +16,7 @@ to understand trends, growth, and performance.
 ## Key Insights
 - Identified long-term growth trends
 - Compared yearly performance variations
+
+## Dataset
+Stock market dataset (5 years) is available here:  
+https://docs.google.com/spreadsheets/d/1SteWK3w67bxwDUdI92w-gOXchqSLW-0h/edit
