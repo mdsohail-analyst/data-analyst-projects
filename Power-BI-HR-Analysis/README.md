@@ -1,27 +1,53 @@
-# Power BI HR Analysis Dashboard
+## 📊 Power BI HR Analytics Dashboard
 
-## Objective
-To analyze employee data and identify key HR metrics such as attrition, performance, and workforce distribution.
+### 🔍 Project Overview
+This project focuses on HR data analysis using Power BI to understand employee demographics, attrition trends, and workforce distribution. The goal is to help HR teams make data-driven decisions related to retention, performance, and workforce planning.
 
-## Tools Used
-- Power BI
-- Excel / CSV
-- DAX
+### 🎯 Objectives
+- Analyze employee attrition patterns
+- Understand workforce distribution by department, gender, and job role
+- Identify key factors affecting employee turnover
+- Create interactive dashboards for easy insights
 
-## Key KPIs
+### 📌 Key KPIs
 - Total Employees
-- Attrition Rate
-- Average Age
-- Job Satisfaction
+- Attrition Count & Attrition Rate
+- Average Age of Employees
+- Department-wise Attrition
+- Gender-wise Attrition
 
-## Key Insights
-- Highest attrition observed in specific departments
-- Attrition trends based on age group and gender
-- Employee performance and satisfaction analysis
+### 📊 Dashboards Included
+The Power BI dashboards provide insights on:
+- Overall HR Summary – total employees, attrition rate, average age
+- Attrition Analysis – by department, job role, gender
+- Employee Demographics – age group, education, experience
+- Job Role Analysis
 
-## Dashboard Preview
-(Add screenshot here – hr_dashboard.png)
+Dashboard screenshots are included in this repository.
 
-## Files
-- HR_Analysis.pbix – Power BI dashboard file
-- HR_Data.csv – Dataset used
+### 🛠 Tools & Technologies Used
+- Power BI Desktop
+- Power Query (Data Cleaning & Transformation)
+- DAX (Calculated Measures)
+- Excel / CSV as data source
+
+### 📂 Repository Structure
+Power-BI-HR-Analysis/
+- HR_Dashboard_1.png
+- HR_Dashboard_2.png
+- HR_Dashboard_3.png
+- HR_Dashboard_4.png
+- README.md
+
+### 📈 Key Insights
+- Higher attrition observed in specific departments
+- Attrition varies across age groups and job roles
+- experience influence employee retention
+
+### 🚀 Conclusion
+This project demonstrates hands-on experience in HR analytics, data modeling, and interactive dashboard development using Power BI.
+
+### 👤 Author
+Md Sohail  
+Aspiring Data Analyst
+
