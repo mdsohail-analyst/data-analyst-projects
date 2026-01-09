@@ -9,6 +9,15 @@ This project focuses on HR data analysis using Power BI to understand employee d
 - Identify key factors affecting employee turnover
 - Create interactive dashboards for easy insights
 
+- ### 🧹 Data Cleaning & Preparation
+- Removed duplicate employee records
+- Handled missing values in age,and department, columns
+- Standardized department and job role names
+- Converted data types for accurate analysis
+- Created calculated columns and measures using DAX
+- Performed data transformation using Power Query Editor
+
+
 ### 📌 Key KPIs
 - Total Employees
 - Attrition Count & Attrition Rate
