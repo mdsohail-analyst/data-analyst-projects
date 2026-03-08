@@ -1,16 +1,14 @@
-# Data Analyst Projects
+# healthcare-risk-analysis-tableau-dashboard
+Interactive Healthcare Risk Analysis Dashboard built using Tableau
+# Healthcare Risk Analysis Dashboard (Tableau)
 
-This repository contains end-to-end data analysis projects
-created using Python, SQL, Excel, and Power BI.
+This project analyzes patient health patterns using Tableau.
 
-## Skills Demonstrated
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Insights
+Dashboard Features:
+- BMI Category Distribution
+- Primary Condition Analysis
+- Patients by Insurance Type
+- Age Bin vs Patients
 
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib)
-- SQL
-- Power BI
-- Excel
+Tableau Public Dashboard:
+https://public.tableau.com/app/profile/mohammad.sohail1387/viz/Book1_17728996151140/Dashboard
