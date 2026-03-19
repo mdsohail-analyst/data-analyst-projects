@@ -16,5 +16,9 @@ This project analyzes e-commerce sales data using SQL and Power BI.
 - ecommerce_dashboard.pbix
 - SQL_queries.sql
 
+  ## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 🚀 Outcome
 Built an interactive dashboard to track sales performance and customer behavior.
