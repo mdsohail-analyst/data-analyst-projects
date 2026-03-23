@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis Dashboard
 
-## 📊 Project Overview
+## Objective
 This project analyzes e-commerce sales data using SQL and Power BI.
 
 ## 🛠 Tools Used
