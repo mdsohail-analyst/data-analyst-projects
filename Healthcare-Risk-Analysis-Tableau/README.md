@@ -1,5 +1,5 @@
 # Healthcare Risk Analysis Dashboard (Tableau)
-# Objective
+## Objective
 
 This project analyzes healthcare patient data to identify risk patterns based on BMI, Age, Gender, and Insurance Type.
 
