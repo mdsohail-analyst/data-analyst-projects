@@ -1,5 +1,8 @@
 # Stock Market Analysis (5 Years Data)
 
+## Dashboard Preview
+![Dashboard](Excel dashboard.png)
+
 ## Objective
 Analyze 5 years of stock market data using Excel
 to understand trends, growth, and performance.
