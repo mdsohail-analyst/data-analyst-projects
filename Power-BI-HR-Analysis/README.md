@@ -1,62 +1,90 @@
-## 📊 Power BI HR Analytics Dashboard
+# 📊 Power BI HR Analytics Dashboard
 
-### 🔍 Project Overview
-This project focuses on HR data analysis using Power BI to understand employee demographics, attrition trends, and workforce distribution. The goal is to help HR teams make data-driven decisions related to retention, performance, and workforce planning.
+## 🔎 Project Overview
 
-### 🎯 Objectives
-- Analyze employee attrition patterns
-- Understand workforce distribution by department, gender, and job role
-- Identify key factors affecting employee turnover
-- Create interactive dashboards for easy insights
+This project analyzes employee data using **Microsoft Power BI** to understand workforce structure, employee experience, training effectiveness, performance recognition, and recruitment channels.
 
-- ### 🧹 Data Cleaning & Preparation
-- Removed duplicate employee records
-- Handled missing values in age,and department, columns
-- Standardized department and job role names
-- Converted data types for accurate analysis
-- Created calculated columns and measures using DAX
-- Performed data transformation using Power Query Editor
+The dashboard transforms HR data into interactive visual insights that can support **data-driven workforce planning and HR decision-making**.
 
+## 🎯 Objectives
 
-### 📌 Key KPIs
-- Total Employees
-- Attrition Count & Attrition Rate
-- Average Age of Employees
-- Department-wise Attrition
-- Gender-wise Attrition
+* Analyze overall workforce size and employee experience
+* Evaluate employee training exposure and training scores
+* Compare award winners across departments
+* Analyze employee experience by department and recruitment channel
+* Identify patterns that can support HR planning and employee development
+* Present key findings through interactive Power BI dashboards
 
-### 📊 Dashboards Included
-The Power BI dashboards provide insights on:
-- Overall HR Summary – total employees, attrition rate, average age
-- Attrition Analysis – by department, job role, gender
-- Employee Demographics – age group, education, experience
-- Job Role Analysis
+## 🛠️ Tools & Technologies
 
-Dashboard screenshots are included in this repository.
+* **Power BI**
+* **DAX**
+* **Power Query**
+* **Microsoft Excel**
+* Data Visualization
+* HR Analytics
 
-### 🛠 Tools & Technologies Used
-- Power BI Desktop
-- Power Query (Data Cleaning & Transformation)
-- DAX (Calculated Measures)
-- Excel / CSV as data source
+## 📈 Dashboard Highlights
 
-### 📂 Repository Structure
-Power-BI-HR-Analysis/
-- HR_Dashboard_1.png
-- HR_Dashboard_2.png
-- HR_Dashboard_3.png
-- HR_Dashboard_4.png
-- README.md
+### Dashboard 1 — Workforce Overview
 
-### 📈 Key Insights
-- Higher attrition observed in specific departments
-- Attrition varies across age groups and job roles
-- experience influence employee retention
+* Employee Count
+* Average Service Years
+* Average Training Score
+* Average Trainings
+* Award Winner Percentage
+* Interactive HR filters
 
-### 🚀 Conclusion
-This project demonstrates hands-on experience in HR analytics, data modeling, and interactive dashboard development using Power BI.
+### Dashboard 2 — Employee Analysis
 
-### 👤 Author
-Md Sohail  
-Aspiring Data Analyst
+* Department-wise analysis
+* Gender distribution
+* Recruitment channel analysis
+* Employee experience analysis
+* Award-related analysis
 
+### Dashboard 3 — Training & Recognition Analysis
+
+* Training score distribution
+* Training count distribution
+* Award winners vs non-winners
+* Department-level comparisons
+* Recruitment channel insights
+
+### Key Insights
+
+The final insights page summarizes major findings related to:
+
+* Workforce overview
+* Training and performance
+* Awards and high performance
+* Department-level patterns
+* Recruitment channels
+* Strategic HR recommendations
+
+## 💡 Key Business Insights
+
+* The organization has approximately **23K employees**.
+* Average employee experience is approximately **5.8 years**.
+* Average training exposure is approximately **1.25 trainings per employee**.
+* Average training score is approximately **63**.
+* Award winners are represented across departments.
+* Recruitment channels show differences in employee experience and workforce volume.
+* Department-level analysis can help HR teams design more targeted training and engagement strategies.
+
+## 📌 Strategic Recommendations
+
+* Increase training frequency and personalization.
+* Use department-specific training and engagement strategies.
+* Strengthen employee referral programs.
+* Use training and performance data to support objective recognition and promotion decisions.
+
+## 📷 Dashboard Preview
+
+The repository includes screenshots of the Power BI dashboards for reference.
+
+## 👨‍💻 Author
+
+**MD Sohail Pasha**
+
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
